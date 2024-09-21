@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TypeInject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75EAF65D-AE5F-417C-B20A-142FC048CD99}|TypeInject\\TypeInject.csproj|d:\\typeinject\\typeinject\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75EAF65D-AE5F-417C-B20A-142FC048CD99}|TypeInject\\TypeInject.csproj|solutionrelative:typeinject\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EAF65D-AE5F-417C-B20A-142FC048CD99}|TypeInject\\TypeInject.csproj|d:\\typeinject\\typeinject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EAF65D-AE5F-417C-B20A-142FC048CD99}|TypeInject\\TypeInject.csproj|solutionrelative:typeinject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EAF65D-AE5F-417C-B20A-142FC048CD99}|TypeInject\\TypeInject.csproj|d:\\typeinject\\typeinject\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75EAF65D-AE5F-417C-B20A-142FC048CD99}|TypeInject\\TypeInject.csproj|solutionrelative:typeinject\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EAF65D-AE5F-417C-B20A-142FC048CD99}|TypeInject\\TypeInject.csproj|d:\\typeinject\\typeinject\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75EAF65D-AE5F-417C-B20A-142FC048CD99}|TypeInject\\TypeInject.csproj|solutionrelative:typeinject\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EAF65D-AE5F-417C-B20A-142FC048CD99}|TypeInject\\TypeInject.csproj|d:\\typeinject\\typeinject\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75EAF65D-AE5F-417C-B20A-142FC048CD99}|TypeInject\\TypeInject.csproj|solutionrelative:typeinject\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EAF65D-AE5F-417C-B20A-142FC048CD99}|TypeInject\\TypeInject.csproj|d:\\typeinject\\typeinject\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75EAF65D-AE5F-417C-B20A-142FC048CD99}|TypeInject\\TypeInject.csproj|solutionrelative:typeinject\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EAF65D-AE5F-417C-B20A-142FC048CD99}|TypeInject\\TypeInject.csproj|d:\\typeinject\\typeinject\\transientservie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EAF65D-AE5F-417C-B20A-142FC048CD99}|TypeInject\\TypeInject.csproj|solutionrelative:typeinject\\transientservie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EAF65D-AE5F-417C-B20A-142FC048CD99}|TypeInject\\TypeInject.csproj|d:\\typeinject\\typeinject\\scopeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EAF65D-AE5F-417C-B20A-142FC048CD99}|TypeInject\\TypeInject.csproj|solutionrelative:typeinject\\scopeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EAF65D-AE5F-417C-B20A-142FC048CD99}|TypeInject\\TypeInject.csproj|d:\\typeinject\\typeinject\\singletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EAF65D-AE5F-417C-B20A-142FC048CD99}|TypeInject\\TypeInject.csproj|solutionrelative:typeinject\\singletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\TypeInject\\TypeInject\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "TypeInject\\Components\\Pages\\Weather.razor",
+              "ToolTip": "D:\\TypeInject\\TypeInject\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "TypeInject\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T11:55:28.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\TypeInject\\TypeInject\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "TypeInject\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\TypeInject\\TypeInject\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "TypeInject\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T11:53:19.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\TypeInject\\TypeInject\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "TypeInject\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\TypeInject\\TypeInject\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "TypeInject\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T11:53:04.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\TypeInject\\TypeInject\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "TypeInject\\Components\\Pages\\Counter.razor",
+              "ToolTip": "D:\\TypeInject\\TypeInject\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "TypeInject\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T11:50:52.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TypeInject\\TypeInject\\Program.cs",
+              "RelativeDocumentMoniker": "TypeInject\\Program.cs",
+              "ToolTip": "D:\\TypeInject\\TypeInject\\Program.cs",
+              "RelativeToolTip": "TypeInject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:39:15.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SingleTonService.cs",
+              "DocumentMoniker": "D:\\TypeInject\\TypeInject\\SingleTonService.cs",
+              "RelativeDocumentMoniker": "TypeInject\\SingleTonService.cs",
+              "ToolTip": "D:\\TypeInject\\TypeInject\\SingleTonService.cs",
+              "RelativeToolTip": "TypeInject\\SingleTonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:35:11.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScopeService.cs",
+              "DocumentMoniker": "D:\\TypeInject\\TypeInject\\ScopeService.cs",
+              "RelativeDocumentMoniker": "TypeInject\\ScopeService.cs",
+              "ToolTip": "D:\\TypeInject\\TypeInject\\ScopeService.cs",
+              "RelativeToolTip": "TypeInject\\ScopeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:34:57.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransientServie.cs",
+              "DocumentMoniker": "D:\\TypeInject\\TypeInject\\TransientServie.cs",
+              "RelativeDocumentMoniker": "TypeInject\\TransientServie.cs",
+              "ToolTip": "D:\\TypeInject\\TypeInject\\TransientServie.cs",
+              "RelativeToolTip": "TypeInject\\TransientServie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:34:39.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\TypeInject\\TypeInject\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "TypeInject\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\TypeInject\\TypeInject\\Components\\Pages\\Home.razor*",
+              "RelativeToolTip": "TypeInject\\Components\\Pages\\Home.razor*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T11:33:25.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

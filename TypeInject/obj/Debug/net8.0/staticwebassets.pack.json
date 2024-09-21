@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\TypeInject\\TypeInject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TypeInject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TypeInject.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\TypeInject\\TypeInject\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\TypeInject\\TypeInject\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\TypeInject\\TypeInject\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\TypeInject\\TypeInject\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TypeInject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TypeInject.props",
+      "PackagePath": "build\\TypeInject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TypeInject.props",
+      "PackagePath": "buildMultiTargeting\\TypeInject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TypeInject.props",
+      "PackagePath": "buildTransitive\\TypeInject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
